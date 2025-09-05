@@ -1,5 +1,5 @@
 # Online-Voting-System-using-Java
-ightweight Online Voting System implemented in Java using JDBC for database connectivity. The system provides separate modules for user registration, user login, admin login, party management, casting votes (one vote per user per election), viewing results and determining the winner. This README explains how to set up, run and maintain the project.
+lightweight Online Voting System implemented in Java using JDBC for database connectivity. The system provides separate modules for user registration, user login, admin login, party management, casting votes (one vote per user per election), viewing results and determining the winner. This README explains how to set up, run and maintain the project.
 Tech stack
 
 Java (JDK 8+)
